@@ -1,0 +1,13 @@
+conf.active: true
+debug: true
+
+conf.exemple:
+  list:
+    step1:
+      - name: aze
+      - name: azer
+      - name: azert
+        type: FF
+    step2:
+      - name: qsd
+      - name: qsdf
